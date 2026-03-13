@@ -202,3 +202,7 @@ Iterate until the user is satisfied, then write the file.
 ## Reference
 
 For CLAUDE.md best practices, see [claude-md-guide.md](references/claude-md-guide.md).
+
+---
+
+Copyright 2026 simplesoft, Inc. Licensed under the [Apache License, Version 2.0](LICENSE).

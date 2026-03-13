@@ -45,3 +45,7 @@ CLAUDE.md is the primary way to give Claude Code project-specific context. It ac
 - Focus on constraints and rules, not tutorials
 - Update regularly as the project evolves
 - For detailed reference material, link to separate files
+
+---
+
+Copyright 2026 simplesoft, Inc. Licensed under the [Apache License, Version 2.0](../LICENSE).
