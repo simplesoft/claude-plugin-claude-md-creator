@@ -1,5 +1,5 @@
 ---
-name: project-docs
+name: claude-md-creator
 description: >
   Analyze an existing codebase and generate CLAUDE.md and/or README.md files for Claude Code development.
   Use when: (1) User wants to create CLAUDE.md for a project, (2) User wants to generate README.md from code,
@@ -9,9 +9,9 @@ description: >
   "analyze codebase", "project setup docs". Default output is CLAUDE.md; README.md is optional.
 ---
 
-# Project Docs Generator
+# Claude MD Creator
 
-Generate CLAUDE.md and/or README.md by analyzing an existing codebase. Default: CLAUDE.md only.
+Analyze an existing codebase and generate CLAUDE.md and/or README.md files for Claude Code development. Default: CLAUDE.md only.
 
 ## Workflow
 
